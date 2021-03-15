@@ -5,7 +5,7 @@
 package io.flutter.add2app;
 
 import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 import io.flutter.embedding.android.FlutterActivity;
 
 public class MainActivity extends FlutterActivity {

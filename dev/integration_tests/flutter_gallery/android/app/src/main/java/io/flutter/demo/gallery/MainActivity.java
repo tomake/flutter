@@ -4,7 +4,7 @@
 
 package io.flutter.demo.gallery;
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
 import io.flutter.embedding.engine.FlutterEngine;
 

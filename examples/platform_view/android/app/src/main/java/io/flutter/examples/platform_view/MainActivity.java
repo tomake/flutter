@@ -5,7 +5,7 @@
 package io.flutter.examples.platform_view;
 
 import android.content.Intent;
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
 import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.plugin.common.MethodCall;

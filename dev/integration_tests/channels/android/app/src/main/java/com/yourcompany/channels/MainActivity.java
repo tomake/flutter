@@ -9,7 +9,7 @@ import java.nio.ByteBuffer;
 import java.util.Date;
 
 import android.os.Bundle;
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 
 import io.flutter.embedding.android.FlutterActivity;
 import io.flutter.embedding.engine.dart.DartExecutor;

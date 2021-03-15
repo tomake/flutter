@@ -1,6 +1,6 @@
 package com.example.manual_tests
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.engine.FlutterEngine
 import io.flutter.plugins.GeneratedPluginRegistrant

@@ -5,7 +5,7 @@
 package dev.benchmarks.platform_views_layout;
 
 import android.content.Context;
-import androidx.annotation.Nullable;
+import android.support.annotation.Nullable;
 import io.flutter.plugin.common.MessageCodec;
 import io.flutter.plugin.common.StringCodec;
 import io.flutter.plugin.platform.PlatformView;

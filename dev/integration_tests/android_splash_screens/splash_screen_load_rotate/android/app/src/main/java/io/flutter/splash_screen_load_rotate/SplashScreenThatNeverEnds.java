@@ -7,8 +7,8 @@ package io.flutter.splash_screen_load_rotate;
 import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
 
 import io.flutter.embedding.android.SplashScreen;
 

@@ -16,8 +16,8 @@ import android.view.View;
 import android.view.ViewPropertyAnimator;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.FrameLayout;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
 
 public class NeverEndingSplashView extends FrameLayout {
   private static final String TAG = "NeverEndingSplashView";

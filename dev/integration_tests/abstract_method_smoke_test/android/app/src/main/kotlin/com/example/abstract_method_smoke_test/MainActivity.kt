@@ -5,7 +5,7 @@ import android.graphics.Color
 import android.os.Bundle
 import android.view.View
 import android.view.inputmethod.InputMethodManager
-import androidx.annotation.NonNull
+import android.support.annotation.NonNull
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.engine.FlutterEngine
 import io.flutter.embedding.engine.plugins.shim.ShimPluginRegistry

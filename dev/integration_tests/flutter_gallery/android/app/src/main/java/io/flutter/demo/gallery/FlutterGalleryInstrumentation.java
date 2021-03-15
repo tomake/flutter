@@ -5,7 +5,7 @@
 package io.flutter.demo.gallery;
 
 import android.os.ConditionVariable;
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 
 import io.flutter.plugin.common.BinaryMessenger;
 import io.flutter.plugin.common.MethodCall;

@@ -20,7 +20,7 @@ import android.view.animation.ScaleAnimation;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
-import androidx.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 public class FlutterZoomSplashView extends FrameLayout {
   private static final String TAG = "FlutterZoomSplashView";

@@ -13,7 +13,7 @@ import android.os.BatteryManager;
 import android.os.Build.VERSION;
 import android.os.Build.VERSION_CODES;
 import android.os.Bundle;
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
 import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.plugin.common.EventChannel;

@@ -7,7 +7,7 @@ package io.flutter.splash_screen_trans_rotate;
 import android.content.Context;
 import android.util.Log;
 
-import androidx.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 import io.flutter.embedding.android.FlutterActivity;
 import io.flutter.embedding.android.SplashScreen;
